@@ -1,0 +1,45 @@
+body{
+  font-family: Helvetica;
+  background-color: white;
+
+}
+
+h2{
+  margin: 0;
+  color: green;
+  font-size: 30px;
+}
+
+h3{
+  color: brown;
+  font-size: 30px;
+}
+
+h4{
+  color: black;
+  font-size: 30px;
+}
+
+p1{
+    margin-top: 500px;
+   color: black;
+    font-style: italic;
+}
+
+p{
+  font-style: italic;
+  color: black;
+}
+
+/*
+p1.centered-text {
+
+    margin-bottom: 500px; /* Adjust the margin-bottom value as needed */
+  /*  color: black;
+    font-style: italic;
+    text-align: center;
+}
+*/
+img {
+           margin-right: 250px; /* Adjust the value as needed */
+       }
